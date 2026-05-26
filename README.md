@@ -37,3 +37,12 @@ This project features a modern UI design with smooth animations, playlist drawer
 ## 📌 Notes
 * Uses online images and Spotify track links.
 * Designed mainly for frontend practice and UI demonstration.
+
+
+##  💻 Output Screen
+
+<img width="1915" height="1023" alt="Screenshot 2026-05-24 175051" src="https://github.com/user-attachments/assets/7512d91e-759e-4127-b738-577bb0d7a9b2" />
+
+<img width="1890" height="1014" alt="Screenshot 2026-05-24 175126" src="https://github.com/user-attachments/assets/d9fa818f-6451-4f59-a497-2dc96474090d" />
+
+
